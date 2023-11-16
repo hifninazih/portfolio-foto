@@ -899,14 +899,32 @@ video {
   padding-top: 9rem;
 }
 
+.text-left {
+  text-align: left;
+}
+
 .text-center {
   text-align: center;
 }
 
+<<<<<<< HEAD
+=======
+.text-right {
+  text-align: right;
+}
+
+>>>>>>> 82f39041cbea8cbd4df2d312e9cf38f74d544757
 .text-justify {
   text-align: justify;
 }
 
+<<<<<<< HEAD
+=======
+.text-end {
+  text-align: end;
+}
+
+>>>>>>> 82f39041cbea8cbd4df2d312e9cf38f74d544757
 .text-2xl {
   font-size: 1.5rem;
   line-height: 2rem;
